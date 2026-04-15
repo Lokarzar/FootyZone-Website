@@ -11,3 +11,5 @@ Fontawesome,
 radar: react-chartjs-2
 
 Npm install in the commandprompt before running the code
+
+https://footy-8a7e9.web.app/
